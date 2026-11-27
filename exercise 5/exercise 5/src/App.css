@@ -1,0 +1,34 @@
+
+.container {
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  font-size: 36px;
+}
+
+.form {
+  display: flex;
+  gap: 5px;
+}
+
+input {
+  padding: 10px;
+  font-size: 16px;
+}
+
+button {
+  padding: 8px 12px;
+  cursor: pointer;
+  margin: 3px;
+}
+
+li {
+  margin-bottom: 15px;
+  font-size: 20px;
+}
+
+h3 {
+  margin-top: 35px;
+}

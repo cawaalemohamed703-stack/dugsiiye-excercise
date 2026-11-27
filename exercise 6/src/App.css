@@ -1,0 +1,21 @@
+
+body {
+  margin: 0;
+  padding: 15px 50px;
+  background-color: white;
+  font-family: "Times New Roman", serif;
+}
+
+.container h1 {
+  font-size: 30px;
+}
+
+.container input {
+  width: 190px;
+  height: 22px;
+  font-size: 16px;
+}
+
+.container h2 {
+  font-size: 24px;
+}
